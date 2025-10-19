@@ -77,6 +77,6 @@ body {
   border-radius: 50%;
   background-image: url('../img/avatar.jpg');
   background-repeat: no-repeat;
-  background-position: center top -10px;
+  background-position: right -80px top -100px;
   border: 13px solid #fff;
 }

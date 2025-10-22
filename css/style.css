@@ -133,6 +133,7 @@ body {
   margin: 0;
 }
 
+<<<<<<< HEAD
 /* projects */
 .projects {
   background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 95.44%);
@@ -208,6 +209,8 @@ body {
   background-color: #FFBB01;
 }
 
+=======
+>>>>>>> 788190ee8a8f8fa277db06266fdee64cc4ceec4d
 /* contacts */
 
 .contacts-form {

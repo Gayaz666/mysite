@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 new WOW().init();
 var mySwiper = new Swiper('.swiper', {
   pagination: {
@@ -7,3 +8,6 @@ var mySwiper = new Swiper('.swiper', {
     clickable: true
   },
 }) 
+=======
+new WOW().init();
+>>>>>>> 788190ee8a8f8fa277db06266fdee64cc4ceec4d

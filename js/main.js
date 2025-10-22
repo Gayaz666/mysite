@@ -10,4 +10,8 @@ var mySwiper = new Swiper('.swiper', {
 }) 
 =======
 new WOW().init();
+<<<<<<< HEAD
 >>>>>>> 788190e (second lesson)
+=======
+>>>>>>> 788190ee8a8f8fa277db06266fdee64cc4ceec4d
+>>>>>>> 499fc9033731f3d436e771e102e5c299c3f74901
